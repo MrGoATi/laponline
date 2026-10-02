@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "bedroom",
+      "category": "nouns",
+      "popularity": 0,
+      "title": "Bedroom",
+      "titleLocale": "en",
+      "titles": {
+        "en": "Bedroom",
+        "es": "Dormitorio",
+        "sv": "Sovrum",
+        "ru": "Спальня",
+        "lt": "Miegamasis"
+      },
+      "packFile": "bedroom/pack.json",
+      "imageFile": "bedroom/bedroom.jpg"
+    },
+    {
+      "id": "street",
+      "category": "nouns",
+      "popularity": 0,
+      "title": "Town view",
+      "titleLocale": "en",
+      "titles": {
+        "en": "Town view"
+      },
+      "packFile": "street/pack.json",
+      "imageFile": "street/street.jpg"
+    },
+    {
+      "id": "park",
+      "category": "nouns",
+      "popularity": 0,
+      "title": "Park",
+      "titleLocale": "en",
+      "titles": {
+        "en": "Park",
+        "es": "Parque",
+        "sv": "Park",
+        "ru": "Парк",
+        "lt": "Parkas"
+      },
+      "packFile": "park/pack.json",
+      "imageFile": "park/park.jpg"
+    }
+  ]
+}

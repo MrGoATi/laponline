@@ -1,0 +1,299 @@
+{
+  "kind": "online-image-pack",
+  "version": 1,
+  "exportedAt": "2026-09-30T21:08:00.000Z",
+  "imageId": "park",
+  "imageFile": "image.jpg",
+  "title": "Park",
+  "titleLocale": "en",
+  "titles": {
+    "en": "Park",
+    "es": "Parque",
+    "sv": "Park",
+    "ru": "Парк",
+    "lt": "Parkas"
+  },
+  "category": "nouns",
+  "words": [
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a football",
+      "foreignText": "en fotboll",
+      "coordinateX": 0.7556532663316583,
+      "coordinateY": 0.6852316965542976,
+      "pinSize": 0.35,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a cat",
+      "foreignText": "en katt",
+      "coordinateX": 0.887238986887792,
+      "coordinateY": 0.7823574340800816,
+      "pinSize": 0.28189657526717987,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a skateboard",
+      "foreignText": "en skateboard",
+      "coordinateX": 0.7838933571181822,
+      "coordinateY": 0.7927135502673073,
+      "pinSize": 0.28189657526717987,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a book",
+      "foreignText": "en bok",
+      "coordinateX": 0.7081024487940126,
+      "coordinateY": 0.9008472446787751,
+      "pinSize": 0.28189657526717987,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a water bottle",
+      "foreignText": "en vattenflaska",
+      "coordinateX": 0.7576822484641196,
+      "coordinateY": 0.8737947746206812,
+      "pinSize": 0.28189657526717987,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a kite",
+      "foreignText": "en drake",
+      "coordinateX": 0.6375692814061817,
+      "coordinateY": 0.58108706510362,
+      "pinSize": 0.28189657526717987,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a boy",
+      "foreignText": "en pojke",
+      "coordinateX": 0.6059916709020065,
+      "coordinateY": 0.861350654905475,
+      "pinSize": 0.35,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a smile",
+      "foreignText": "ett leende",
+      "coordinateX": 0.6109715242881071,
+      "coordinateY": 0.7362855770679773,
+      "pinSize": 0.28189657526717987,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a dog",
+      "foreignText": "en hund",
+      "coordinateX": 0.46758139682295774,
+      "coordinateY": 0.8223950980218193,
+      "pinSize": 0.28189657526717987,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a woman",
+      "foreignText": "en kvinna",
+      "coordinateX": 0.3874289309503737,
+      "coordinateY": 0.7168741957991784,
+      "pinSize": 0.35,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a man",
+      "foreignText": "en man",
+      "coordinateX": 0.12350809748669142,
+      "coordinateY": 0.7147892063253752,
+      "pinSize": 0.28189657526717987,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a pair of glasses",
+      "foreignText": "ett par glasögon",
+      "coordinateX": 0.14656616415410395,
+      "coordinateY": 0.6276521320651853,
+      "pinSize": 0.28189657526717987,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a backpack",
+      "foreignText": "en ryggsäck",
+      "coordinateX": 0.07879646733284865,
+      "coordinateY": 0.8499886174810753,
+      "pinSize": 0.28189657526717987,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a thermos",
+      "foreignText": "en termos",
+      "coordinateX": 0.10565219215415654,
+      "coordinateY": 0.8965188659809973,
+      "pinSize": 0.28189657526717987,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a camera",
+      "foreignText": "en kamera",
+      "coordinateX": 0.33121329011650713,
+      "coordinateY": 0.5201702783521759,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a bicycle",
+      "foreignText": "en cykel",
+      "coordinateX": 0.5370603015075377,
+      "coordinateY": 0.484854812132187,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "an ice cream",
+      "foreignText": "en glass",
+      "coordinateX": 0.636280291791549,
+      "coordinateY": 0.38812114379047846,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a climbing net",
+      "foreignText": "ett klätternät",
+      "coordinateX": 0.8986599664991624,
+      "coordinateY": 0.5566373358619471,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a swing",
+      "foreignText": "en gunga",
+      "coordinateX": 0.8433835845896146,
+      "coordinateY": 0.5516471069395572,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a slide",
+      "foreignText": "en rutschkana",
+      "coordinateX": 0.7627721943048575,
+      "coordinateY": 0.4775614006302326,
+      "pinSize": 0.35,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a bush",
+      "foreignText": "en buske",
+      "coordinateX": 0.38274706867671693,
+      "coordinateY": 0.5017448177156597,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a duck",
+      "foreignText": "en anka",
+      "coordinateX": 0.36055276381909546,
+      "coordinateY": 0.364321590468312,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a bridge",
+      "foreignText": "en bro",
+      "coordinateX": 0.3986599664991625,
+      "coordinateY": 0.2691233771796463,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a tree trunk",
+      "foreignText": "en trädstam",
+      "coordinateX": 0.06155778894472362,
+      "coordinateY": 0.4522263922550232,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a tree",
+      "foreignText": "ett träd",
+      "coordinateX": 0.06469849246231156,
+      "coordinateY": 0.2460915513840014,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a branch",
+      "foreignText": "en gren",
+      "coordinateX": 0.146356783919598,
+      "coordinateY": 0.19158289700097525,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a leaf",
+      "foreignText": "ett löv",
+      "coordinateX": 0.21545226130653267,
+      "coordinateY": 0.14129674401381714,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a flower",
+      "foreignText": "en blomma",
+      "coordinateX": 0.9591691376667457,
+      "coordinateY": 0.9365467791310479,
+      "pinSize": 0.3645013056142478,
+      "partOfSpeech": "noun"
+    }
+  ]
+}

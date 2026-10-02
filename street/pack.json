@@ -1,0 +1,240 @@
+{
+  "kind": "online-image-pack",
+  "version": 1,
+  "exportedAt": "2026-09-05T19:20:47.819Z",
+  "imageId": "1788620418503-0",
+  "imageFile": "image.jpg",
+  "title": "Town view",
+  "titleLocale": "en",
+  "titles": {
+    "en": "Town view"
+  },
+  "category": "nouns",
+  "words": [
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Trashbin",
+      "foreignText": "Papelera",
+      "coordinateX": 0.5821826473422181,
+      "coordinateY": 0.7826507717899873,
+      "pinSize": 0.35
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Cap",
+      "foreignText": "Gorra",
+      "coordinateX": 0.2953602510942088,
+      "coordinateY": 0.5984628231455568,
+      "pinSize": 0.3022356888373228
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Back",
+      "foreignText": "Espalda",
+      "coordinateX": 0.2967931607486099,
+      "coordinateY": 0.7065025640266702,
+      "pinSize": 0.3
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Handrails",
+      "foreignText": "Barandilla",
+      "coordinateX": 0.48509512048053716,
+      "coordinateY": 0.6417427808831183,
+      "pinSize": 0.2626718195952273
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Car",
+      "foreignText": "Coche",
+      "coordinateX": 0.055778990293880344,
+      "coordinateY": 0.5884545074429025,
+      "pinSize": 0.2626718195952273
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Garage gate",
+      "foreignText": "Puerta del garaje",
+      "coordinateX": 0.19335050769235707,
+      "coordinateY": 0.5207878764630757,
+      "pinSize": 0.2626718195952273
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Window",
+      "foreignText": "Ventana",
+      "coordinateX": 0.09952040641522543,
+      "coordinateY": 0.4844825570454235,
+      "pinSize": 0.2626718195952273
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Bridge",
+      "foreignText": "Puente",
+      "coordinateX": 0.4839978015273495,
+      "coordinateY": 0.3619870690288142,
+      "pinSize": 0.2626718195952273
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Fence",
+      "foreignText": "Valla",
+      "coordinateX": 0.48279507219981127,
+      "coordinateY": 0.7152960148075866,
+      "pinSize": 0.2626718195952273
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Light post",
+      "foreignText": "Poste de luz",
+      "coordinateX": 0.3267238555730454,
+      "coordinateY": 0.5116953738190853,
+      "pinSize": 0.2626718195952273
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Hill",
+      "foreignText": "la colina",
+      "coordinateX": 0.3116185378930591,
+      "coordinateY": 0.4027629617713725,
+      "pinSize": 0.2626718195952273
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Grass",
+      "foreignText": "Césped",
+      "coordinateX": 0.4039173804814702,
+      "coordinateY": 0.9258693721776815,
+      "pinSize": 0.2767173074078101
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "River",
+      "foreignText": "Río",
+      "coordinateX": 0.5574771196703011,
+      "coordinateY": 0.591960028352704,
+      "pinSize": 0.5258565836122924
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Tree",
+      "foreignText": "Arbol",
+      "coordinateX": 0.7408919455161728,
+      "coordinateY": 0.4532370002952834,
+      "pinSize": 0.3
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Chimney",
+      "foreignText": "Chimenea",
+      "coordinateX": 0.8745582194140773,
+      "coordinateY": 0.22699121811211673,
+      "pinSize": 0.25
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Roof",
+      "foreignText": "Techo",
+      "coordinateX": 0.9128869208628543,
+      "coordinateY": 0.3218963465301903,
+      "pinSize": 0.25
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Road",
+      "foreignText": "Carretera",
+      "coordinateX": 0.06539430319859298,
+      "coordinateY": 0.7612742623507222,
+      "pinSize": 0.4511379816014304
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Sidewalk",
+      "foreignText": "Acera",
+      "coordinateX": 0.20146873119438696,
+      "coordinateY": 0.8724537439213207,
+      "pinSize": 0.4511379816014304
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Cables",
+      "foreignText": "Cables",
+      "coordinateX": 0.22807735295655135,
+      "coordinateY": 0.09261007875517259,
+      "pinSize": 0.4511379816014304
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Metal bars",
+      "foreignText": "Barras de metal",
+      "coordinateX": 0.8121229507642577,
+      "coordinateY": 0.9045935088770352,
+      "pinSize": 0.8
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Street sign",
+      "foreignText": "Señal de la calle",
+      "coordinateX": 0.7978689063889336,
+      "coordinateY": 0.4907868719683747,
+      "pinSize": 0.25330678795614026
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Leg",
+      "foreignText": "Pie",
+      "coordinateX": 0.2942709752834526,
+      "coordinateY": 0.9408491517612898,
+      "pinSize": 0.25
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Hand",
+      "foreignText": "Mano",
+      "coordinateX": 0.3208081994911687,
+      "coordinateY": 0.8305572267735889,
+      "pinSize": 0.3191632045312617
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Arm",
+      "foreignText": "Brazo",
+      "coordinateX": 0.24397844451354767,
+      "coordinateY": 0.7538286280253709,
+      "pinSize": 0.3284720726800076
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Spanish (Spain)",
+      "nativeText": "Motorcycle",
+      "foreignText": "Motocicleta",
+      "coordinateX": 0.23895311157791352,
+      "coordinateY": 0.5480636735462336,
+      "pinSize": 0.25
+    }
+  ]
+}

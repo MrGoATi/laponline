@@ -1,0 +1,309 @@
+{
+  "kind": "online-image-pack",
+  "version": 1,
+  "exportedAt": "2026-10-01T11:35:12.247Z",
+  "imageId": "bedroom",
+  "imageFile": "bedroom.jpg",
+  "title": "Bedroom",
+  "titleLocale": "en",
+  "titles": {
+    "en": "Bedroom",
+    "es": "Dormitorio",
+    "sv": "Sovrum",
+    "ru": "Спальня",
+    "lt": "Miegamasis"
+  },
+  "category": "nouns",
+  "words": [
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a poster",
+      "foreignText": "en affisch",
+      "coordinateX": 0.24852584741164124,
+      "coordinateY": 0.14650484149091406,
+      "pinSize": 0.3455486018160113,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a coat",
+      "foreignText": "en kappa",
+      "coordinateX": 0.5672322106862496,
+      "coordinateY": 0.47745059026396036,
+      "pinSize": 0.3455486018160113,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a skirt",
+      "foreignText": "en kjol",
+      "coordinateX": 0.5185905476612845,
+      "coordinateY": 0.5645395475217051,
+      "pinSize": 0.3455486018160113,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a pair of tights",
+      "foreignText": "ett par strumpbyxor",
+      "coordinateX": 0.46796097105182877,
+      "coordinateY": 0.5783176484479767,
+      "pinSize": 0.37782321544806413,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a pair of jeans",
+      "foreignText": "ett par jeans",
+      "coordinateX": 0.4454149877179305,
+      "coordinateY": 0.46736767783116134,
+      "pinSize": 0.37782321544806413,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a pair of socks",
+      "foreignText": "ett par strumpor",
+      "coordinateX": 0.37461268917814455,
+      "coordinateY": 0.4318346807055146,
+      "pinSize": 0.37782321544806413,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a backpack",
+      "foreignText": "en ryggsäck",
+      "coordinateX": 0.3362449631537913,
+      "coordinateY": 0.7298767586369601,
+      "pinSize": 0.37782321544806413,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a notebook",
+      "foreignText": "en anteckningsbok",
+      "coordinateX": 0.2646515774794827,
+      "coordinateY": 0.46301669859128636,
+      "pinSize": 0.37782321544806413,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a potted plant",
+      "foreignText": "en krukväxt",
+      "coordinateX": 0.13369372573434432,
+      "coordinateY": 0.9180565974834235,
+      "pinSize": 0.37782321544806413,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a guitar case",
+      "foreignText": "ett gitarrfodral",
+      "coordinateX": 0.26066321082524524,
+      "coordinateY": 0.865844846604922,
+      "pinSize": 0.37782321544806413,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a camera",
+      "foreignText": "en kamera",
+      "coordinateX": 0.04904740234041031,
+      "coordinateY": 0.6098622346589365,
+      "pinSize": 0.37782321544806413,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a pair of curtains",
+      "foreignText": "ett par gardiner",
+      "coordinateX": 0.33898083714299715,
+      "coordinateY": 0.15663523050527928,
+      "pinSize": 0.37782321544806413,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a pillow",
+      "foreignText": "en kudde",
+      "coordinateX": 0.5553431684349686,
+      "coordinateY": 0.284989118081595,
+      "pinSize": 0.37782321544806413,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a mirror",
+      "foreignText": "en spegel",
+      "coordinateX": 0.7013517315678142,
+      "coordinateY": 0.376536810957734,
+      "pinSize": 0.37782321544806413,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a pair of headphones",
+      "foreignText": "ett par hörlurar",
+      "coordinateX": 0.7344338086197404,
+      "coordinateY": 0.4836348009074828,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a book",
+      "foreignText": "en bok",
+      "coordinateX": 0.8003885824890871,
+      "coordinateY": 0.42797455523467437,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a globe",
+      "foreignText": "en jordglob",
+      "coordinateX": 0.9348827470686767,
+      "coordinateY": 0.42643910018163117,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a skateboard",
+      "foreignText": "en skateboard",
+      "coordinateX": 0.9641959798994975,
+      "coordinateY": 0.672180381319098,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a chair",
+      "foreignText": "en stol",
+      "coordinateX": 0.7223618090452262,
+      "coordinateY": 0.7339824472040785,
+      "pinSize": 0.4,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a desk",
+      "foreignText": "ett skrivbord",
+      "coordinateX": 0.8341784335814169,
+      "coordinateY": 0.6612858608523944,
+      "pinSize": 0.35,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a drawer",
+      "foreignText": "en låda",
+      "coordinateX": 0.7789285884012136,
+      "coordinateY": 0.6084589966178138,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a pair of sneakers",
+      "foreignText": "ett par sneakers",
+      "coordinateX": 0.470511502974078,
+      "coordinateY": 0.8629606716596899,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a drawing",
+      "foreignText": "en teckning",
+      "coordinateX": 0.2682501964414147,
+      "coordinateY": 0.3059394076042241,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a rug",
+      "foreignText": "en matta",
+      "coordinateX": 0.6574539363484087,
+      "coordinateY": 0.8859924974553348,
+      "pinSize": 0.4,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a robot",
+      "foreignText": "en robot",
+      "coordinateX": 0.7782909923849811,
+      "coordinateY": 0.07408569459473198,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a painting",
+      "foreignText": "en tavla",
+      "coordinateX": 0.8251921649142944,
+      "coordinateY": 0.09481433781081239,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a light switch",
+      "foreignText": "en strömbrytare",
+      "coordinateX": 0.009003350083752118,
+      "coordinateY": 0.37499065645459073,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "an alarm clock",
+      "foreignText": "en väckarklocka",
+      "coordinateX": 0.2231993299832496,
+      "coordinateY": 0.4211334801465686,
+      "pinSize": 0.25,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a nightstand",
+      "foreignText": "ett nattduksbord",
+      "coordinateX": 0.22969011725293134,
+      "coordinateY": 0.609610587907596,
+      "pinSize": 0.35,
+      "partOfSpeech": "noun"
+    }
+  ]
+}
