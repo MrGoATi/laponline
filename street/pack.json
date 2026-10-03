@@ -95,8 +95,8 @@
     {
       "nativeLang": "English (United States)",
       "foreignLang": "Spanish (Spain)",
-      "nativeText": "Light post",
-      "foreignText": "Poste de luz",
+      "nativeText": "Lamppost",
+      "foreignText": "Farola",
       "coordinateX": 0.3267238555730454,
       "coordinateY": 0.5116953738190853,
       "pinSize": 0.2626718195952273
@@ -105,7 +105,7 @@
       "nativeLang": "English (United States)",
       "foreignLang": "Spanish (Spain)",
       "nativeText": "Hill",
-      "foreignText": "la colina",
+      "foreignText": "Colina",
       "coordinateX": 0.3116185378930591,
       "coordinateY": 0.4027629617713725,
       "pinSize": 0.2626718195952273
@@ -132,7 +132,7 @@
       "nativeLang": "English (United States)",
       "foreignLang": "Spanish (Spain)",
       "nativeText": "Tree",
-      "foreignText": "Arbol",
+      "foreignText": "Árbol",
       "coordinateX": 0.7408919455161728,
       "coordinateY": 0.4532370002952834,
       "pinSize": 0.3
@@ -195,7 +195,7 @@
       "nativeLang": "English (United States)",
       "foreignLang": "Spanish (Spain)",
       "nativeText": "Street sign",
-      "foreignText": "Señal de la calle",
+      "foreignText": "Señal",
       "coordinateX": 0.7978689063889336,
       "coordinateY": 0.4907868719683747,
       "pinSize": 0.25330678795614026
@@ -204,7 +204,7 @@
       "nativeLang": "English (United States)",
       "foreignLang": "Spanish (Spain)",
       "nativeText": "Leg",
-      "foreignText": "Pie",
+      "foreignText": "Pierna",
       "coordinateX": 0.2942709752834526,
       "coordinateY": 0.9408491517612898,
       "pinSize": 0.25
@@ -231,7 +231,7 @@
       "nativeLang": "English (United States)",
       "foreignLang": "Spanish (Spain)",
       "nativeText": "Motorcycle",
-      "foreignText": "Motocicleta",
+      "foreignText": "Moto",
       "coordinateX": 0.23895311157791352,
       "coordinateY": 0.5480636735462336,
       "pinSize": 0.25

@@ -44,6 +44,22 @@
       },
       "packFile": "park/pack.json",
       "imageFile": "park/park.jpg"
+    },
+    {
+      "id": "wardrobe",
+      "category": "nouns",
+      "popularity": 0,
+      "title": "Wardrobe",
+      "titleLocale": "en",
+      "titles": {
+        "en": "Wardrobe",
+        "es": "Armario",
+        "sv": "Garderob",
+        "ru": "Гардероб",
+        "lt": "Spinta"
+      },
+      "packFile": "wardrobe/pack.json",
+      "imageFile": "wardrobe/wardrobe.jpg"
     }
   ]
 }

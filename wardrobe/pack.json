@@ -1,0 +1,409 @@
+{
+  "kind": "online-image-pack",
+  "version": 1,
+  "exportedAt": "2026-10-03T18:00:00.000Z",
+  "imageId": "wardrobe",
+  "imageFile": "wardrobe.jpg",
+  "title": "Wardrobe",
+  "titleLocale": "en",
+  "titles": {
+    "en": "Wardrobe",
+    "es": "Armario",
+    "sv": "Garderob",
+    "ru": "Гардероб",
+    "lt": "Spinta"
+  },
+  "category": "nouns",
+  "words": [
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a straw hat",
+      "foreignText": "en stråhatt",
+      "coordinateX": 0.148,
+      "coordinateY": 0.145,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a beanie",
+      "foreignText": "en mössa",
+      "coordinateX": 0.208,
+      "coordinateY": 0.145,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a handbag",
+      "foreignText": "en handväska",
+      "coordinateX": 0.312,
+      "coordinateY": 0.145,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a fedora",
+      "foreignText": "en fedora",
+      "coordinateX": 0.548,
+      "coordinateY": 0.142,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a cap",
+      "foreignText": "en keps",
+      "coordinateX": 0.608,
+      "coordinateY": 0.142,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a shoulder bag",
+      "foreignText": "en axelväska",
+      "coordinateX": 0.728,
+      "coordinateY": 0.142,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a briefcase",
+      "foreignText": "en portfölj",
+      "coordinateX": 0.858,
+      "coordinateY": 0.142,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a floral dress",
+      "foreignText": "en blommig klänning",
+      "coordinateX": 0.108,
+      "coordinateY": 0.305,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a black dress",
+      "foreignText": "en svart klänning",
+      "coordinateX": 0.152,
+      "coordinateY": 0.305,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a blouse",
+      "foreignText": "en blus",
+      "coordinateX": 0.2,
+      "coordinateY": 0.305,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a blazer",
+      "foreignText": "en blazer",
+      "coordinateX": 0.252,
+      "coordinateY": 0.305,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a leather jacket",
+      "foreignText": "en skinnjacka",
+      "coordinateX": 0.308,
+      "coordinateY": 0.305,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a cardigan",
+      "foreignText": "en kofta",
+      "coordinateX": 0.368,
+      "coordinateY": 0.305,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a trench coat",
+      "foreignText": "en trenchcoat",
+      "coordinateX": 0.432,
+      "coordinateY": 0.305,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a suit jacket",
+      "foreignText": "en kavaj",
+      "coordinateX": 0.548,
+      "coordinateY": 0.272,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a shirt",
+      "foreignText": "en skjorta",
+      "coordinateX": 0.605,
+      "coordinateY": 0.338,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a flannel shirt",
+      "foreignText": "en flanellskjorta",
+      "coordinateX": 0.675,
+      "coordinateY": 0.302,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a hoodie",
+      "foreignText": "en hoodie",
+      "coordinateX": 0.738,
+      "coordinateY": 0.322,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a denim jacket",
+      "foreignText": "en jeansjacka",
+      "coordinateX": 0.792,
+      "coordinateY": 0.3,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a bomber jacket",
+      "foreignText": "en bomberjacka",
+      "coordinateX": 0.848,
+      "coordinateY": 0.322,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a wool coat",
+      "foreignText": "en ullkappa",
+      "coordinateX": 0.905,
+      "coordinateY": 0.3,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a necklace",
+      "foreignText": "ett halsband",
+      "coordinateX": 0.418,
+      "coordinateY": 0.508,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a bracelet",
+      "foreignText": "ett armband",
+      "coordinateX": 0.452,
+      "coordinateY": 0.442,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a watch",
+      "foreignText": "en klocka",
+      "coordinateX": 0.528,
+      "coordinateY": 0.558,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a t-shirt",
+      "foreignText": "en t-shirt",
+      "coordinateX": 0.118,
+      "coordinateY": 0.598,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "a mini skirt",
+      "foreignText": "en minikjol",
+      "coordinateX": 0.202,
+      "coordinateY": 0.618,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "trousers",
+      "foreignText": "byxor",
+      "coordinateX": 0.252,
+      "coordinateY": 0.638,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "leggings",
+      "foreignText": "leggings",
+      "coordinateX": 0.305,
+      "coordinateY": 0.625,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "jeans",
+      "foreignText": "jeans",
+      "coordinateX": 0.708,
+      "coordinateY": 0.598,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "sweatpants",
+      "foreignText": "mjukisbyxor",
+      "coordinateX": 0.772,
+      "coordinateY": 0.598,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "high heels",
+      "foreignText": "högklackade skor",
+      "coordinateX": 0.848,
+      "coordinateY": 0.615,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "boots",
+      "foreignText": "stövlar",
+      "coordinateX": 0.925,
+      "coordinateY": 0.648,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "heeled sandals",
+      "foreignText": "klacksandaler",
+      "coordinateX": 0.868,
+      "coordinateY": 0.695,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "ankle boots",
+      "foreignText": "ankelboots",
+      "coordinateX": 0.965,
+      "coordinateY": 0.642,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "shorts",
+      "foreignText": "shorts",
+      "coordinateX": 0.358,
+      "coordinateY": 0.612,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "sneakers",
+      "foreignText": "sneakers",
+      "coordinateX": 0.852,
+      "coordinateY": 0.782,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "loafers",
+      "foreignText": "loafers",
+      "coordinateX": 0.888,
+      "coordinateY": 0.8,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "dress shoes",
+      "foreignText": "finskor",
+      "coordinateX": 0.922,
+      "coordinateY": 0.782,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    },
+    {
+      "nativeLang": "English (United States)",
+      "foreignLang": "Swedish (Sweden)",
+      "nativeText": "oxford shoes",
+      "foreignText": "oxfordskor",
+      "coordinateX": 0.955,
+      "coordinateY": 0.8,
+      "pinSize": 0.32,
+      "partOfSpeech": "noun"
+    }
+  ]
+}
